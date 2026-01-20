@@ -1,0 +1,212 @@
+Date_Examen;Annee_Univ;Semestre;Session;ID_Etudiant;Nom_Prenom;Statut;Code_Cours;Nom_Cours;Filiere;Niveau;Departement;ID_Prof;Nom_Prof;Note;Credits
+15/01/2024;2023-2024;S1;Normale;ETU-001;Dupont Jean;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;06,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-002;Martin Sophie;Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;17,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-003;Kone Moussa;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;14,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-004;Diallo Awa;Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;18,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-005;Leroy Paul;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;18,00;6
+16/01/2024;2023-2024;S1;Normale;ETU-006;Moreau Claire;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;09,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-007;Petit Lucas;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;19,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-008;Garcia Emma;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;11,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-009;Roux Thomas;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;14,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-010;Fournier Lea;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;16,00;5
+18/01/2024;2023-2024;S1;Normale;ETU-011;Dubois Hugo;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;19,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-012;Lambert Manon;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;10,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-013;Bonnet Louis;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;12,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-014;Girard Chloe;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;10,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-015;Andre Nathan;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;11,00;4
+20/01/2024;2023-2024;S1;Normale;ETU-001;Dupont Jean;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;16,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-002;Martin Sophie;Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;07,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-003;Kone Moussa;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;08,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-004;Diallo Awa;Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;07,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-005;Leroy Paul;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;08,00;5
+22/01/2024;2023-2024;S1;Normale;ETU-006;Moreau Claire;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;14,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-007;Petit Lucas;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;06,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-008;Garcia Emma;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;11,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-009;Roux Thomas;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;09,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-010;Fournier Lea;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;09,00;4
+05/06/2024;2023-2024;S2;Normale;ETU-001;Dupont Jean;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;09,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-002;Martin Sophie;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;16,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-003;Kone Moussa;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-004;Diallo Awa;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;15,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-005;Leroy Paul;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;17,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-016;Mercier Julie;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;10,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-017;Blanc Pierre;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;14,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-018;Guerin Sarah;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;12,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-019;Boyer Maxime;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-020;Robert Camille;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;16,00;6
+07/06/2024;2023-2024;S2;Normale;ETU-006;Moreau Claire;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;08,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-007;Petit Lucas;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-008;Garcia Emma;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;10,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-009;Roux Thomas;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;17,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-010;Fournier Lea;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-021;Richard Enzo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;19,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-022;Simon Lola;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;14,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-023;Michel Theo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;18,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-024;Lefebvre Jade;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;11,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-025;David Gabriel;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;12,00;5
+09/06/2024;2023-2024;S2;Normale;ETU-011;Dubois Hugo;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;06,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-012;Lambert Manon;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;08,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-013;Bonnet Louis;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-014;Girard Chloe;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-015;Andre Nathan;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;15,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-026;Bertrand Leo;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-027;Dumond Alice;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;19,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-028;Faure Arthur;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;12,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-029;Lemoine Eva;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;13,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-030;Giraud Adam;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;13,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-003;Kone Moussa;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;16,00;6
+10/07/2024;2023-2024;S1;Rattrapage;ETU-007;Petit Lucas;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;11,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-010;Fournier Lea;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;07,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-013;Bonnet Louis;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;06,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-015;Andre Nathan;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;07,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-003;Kone Moussa;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;18,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-009;Roux Thomas;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;13,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-003;Kone Moussa;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;07,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-018;Guerin Sarah;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;10,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-006;Moreau Claire;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;09,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-009;Roux Thomas;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;18,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-023;Michel Theo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;17,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-013;Bonnet Louis;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;06,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-026;Bertrand Leo;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;17,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-028;Faure Arthur;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;11,00;4
+15/01/2024;2023-2024;S1;Normale;ETU-031;Renard Paul;Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;18,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-032;Vidal Ana;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;09,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-033;Noel Tom;Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;17,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-034;Meyer Luc;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;17,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-035;Caron Lise;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;07,00;6
+16/01/2024;2023-2024;S1;Normale;ETU-036;Perrin Axelle;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;09,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-037;Dumas Clement;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;17,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-038;Fontaine Hugo;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;16,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-039;Chevalier Lea;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;10,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-040;Gautier Jules;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;14,00;5
+18/01/2024;2023-2024;S1;Normale;ETU-041;Roger Elise;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;09,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-042;Isaac Noa;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;18,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-043;Muller Theo;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;09,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-044;Roussel Eva;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;06,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-045;Nicolas Louis;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;17,00;4
+20/01/2024;2023-2024;S1;Normale;ETU-031;Renard Paul;Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;14,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-032;Vidal Ana;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;12,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-033;Noel Tom;Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;16,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-034;Meyer Luc;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;16,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-035;Caron Lise;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;14,00;5
+22/01/2024;2023-2024;S1;Normale;ETU-036;Perrin Axelle;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;09,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-037;Dumas Clement;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;19,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-038;Fontaine Hugo;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;12,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-039;Chevalier Lea;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;13,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-040;Gautier Jules;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;14,00;4
+05/06/2024;2023-2024;S2;Normale;ETU-031;Renard Paul;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;19,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-032;Vidal Ana;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;12,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-033;Noel Tom;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;17,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-034;Meyer Luc;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-035;Caron Lise;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;09,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-046;Masson Chloe;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;16,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-047;Marchand Leo;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;12,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-048;Aubry Manon;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;19,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-049;Huet Adam;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;14,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-050;Barbier Eva;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;13,00;6
+07/06/2024;2023-2024;S2;Normale;ETU-036;Perrin Axelle;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;18,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-037;Dumas Clement;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;17,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-038;Fontaine Hugo;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;17,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-039;Chevalier Lea;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;07,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-040;Gautier Jules;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;19,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-051;Brunet Enzo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;06,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-052;Carpentier Lola;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-053;Millet Theo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;07,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-054;Colin Jade;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-055;Guillot Gabriel;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;14,00;5
+09/06/2024;2023-2024;S2;Normale;ETU-041;Roger Elise;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;18,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-042;Isaac Noa;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;14,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-043;Muller Theo;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;08,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-044;Roussel Eva;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;15,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-045;Nicolas Louis;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;18,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-056;Benoit Leo;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;19,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-057;Picard Alice;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-058;Leclerc Arthur;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;18,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-059;Lefevre Eva;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;15,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-060;Daniel Adam;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;13,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-032;Vidal Ana;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;09,00;6
+10/07/2024;2023-2024;S1;Rattrapage;ETU-035;Caron Lise;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;09,00;6
+10/07/2024;2023-2024;S1;Rattrapage;ETU-039;Chevalier Lea;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;12,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-042;Isaac Noa;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;08,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-032;Vidal Ana;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;07,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-037;Dumas Clement;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;09,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-032;Vidal Ana;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-047;Marchand Leo;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;14,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-049;Huet Adam;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;15,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-039;Chevalier Lea;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;14,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-052;Carpentier Lola;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-055;Guillot Gabriel;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;18,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-043;Muller Theo;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-056;Benoit Leo;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;06,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-060;Daniel Adam;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;15,00;4
+15/01/2024;2023-2024;S1;Normale;ETU-061;Vasseur Hugo;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;15,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-062;Royer Manon;Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;10,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-063;Lemaire Paul;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;17,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-064;Clement Sophie;Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;11,00;6
+15/01/2024;2023-2024;S1;Normale;ETU-065;Mathieu Lucas;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;08,00;6
+16/01/2024;2023-2024;S1;Normale;ETU-066;Lucas Emma;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;11,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-067;Dufour Thomas;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;12,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-068;Bernier Lea;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;11,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-069;Robin Jules;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;10,00;5
+16/01/2024;2023-2024;S1;Normale;ETU-070;Garnier Elise;Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;15,00;5
+18/01/2024;2023-2024;S1;Normale;ETU-071;Faivre Noa;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;07,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-072;Poirier Theo;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;07,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-073;Brun Eva;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;11,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-074;Perrot Louis;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;07,00;4
+18/01/2024;2023-2024;S1;Normale;ETU-075;Simon Nathan;Non Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;08,00;4
+20/01/2024;2023-2024;S1;Normale;ETU-061;Vasseur Hugo;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;09,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-062;Royer Manon;Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;14,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-063;Lemaire Paul;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;08,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-064;Clement Sophie;Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;15,00;5
+20/01/2024;2023-2024;S1;Normale;ETU-065;Mathieu Lucas;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;12,00;5
+22/01/2024;2023-2024;S1;Normale;ETU-066;Lucas Emma;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;13,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-067;Dufour Thomas;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;16,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-068;Bernier Lea;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;06,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-069;Robin Jules;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;08,00;4
+22/01/2024;2023-2024;S1;Normale;ETU-070;Garnier Elise;Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;14,00;4
+05/06/2024;2023-2024;S2;Normale;ETU-061;Vasseur Hugo;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-062;Royer Manon;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;08,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-063;Lemaire Paul;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-064;Clement Sophie;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;15,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-065;Mathieu Lucas;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;11,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-076;Savage Chloe;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;16,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-077;Dupuy Leo;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;15,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-078;Morin Manon;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;12,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-079;Leger Adam;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;12,00;6
+05/06/2024;2023-2024;S2;Normale;ETU-080;Voisin Eva;Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;10,00;6
+07/06/2024;2023-2024;S2;Normale;ETU-066;Lucas Emma;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;14,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-067;Dufour Thomas;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;14,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-068;Bernier Lea;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-069;Robin Jules;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;09,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-070;Garnier Elise;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;10,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-081;Pichon Enzo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-082;Lacroix Lola;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;16,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-083;Lecomte Theo;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;06,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-084;Guillou Jade;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;13,00;5
+07/06/2024;2023-2024;S2;Normale;ETU-085;Besnard Gabriel;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;13,00;5
+09/06/2024;2023-2024;S2;Normale;ETU-071;Faivre Noa;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;12,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-072;Poirier Theo;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;16,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-073;Brun Eva;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-074;Perrot Louis;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;07,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-075;Simon Nathan;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;10,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-086;Voisin Leo;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;15,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-087;Barre Alice;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;17,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-088;Pons Arthur;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;08,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-089;Coste Eva;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;16,00;4
+09/06/2024;2023-2024;S2;Normale;ETU-090;Leroux Adam;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;09,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-063;Lemaire Paul;Non Boursier;INF-101;Algorithmique;Info;Licence;Informatique;PRF-01;Turing A.;10,00;6
+10/07/2024;2023-2024;S1;Rattrapage;ETU-067;Dufour Thomas;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;12,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-069;Robin Jules;Non Boursier;GST-101;Comptabilité;Gestion;Licence;Gestion;PRF-02;Compte P.;06,00;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-072;Poirier Theo;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;14,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-074;Perrot Louis;Boursier;DRT-101;Droit Civil;Droit;Licence;Droit;PRF-03;Legrand J.;06,00;4
+10/07/2024;2023-2024;S1;Rattrapage;ETU-063;Lemaire Paul;Non Boursier;INF-102;Base de Données;Info;Licence;Informatique;PRF-04;Codd E.;09,50;5
+10/07/2024;2023-2024;S1;Rattrapage;ETU-067;Dufour Thomas;Non Boursier;GST-102;Marketing;Gestion;Licence;Gestion;PRF-05;Kotler P.;10,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-063;Lemaire Paul;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;10,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-077;Dupuy Leo;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;09,00;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-079;Leger Adam;Non Boursier;INF-201;Réseaux;Info;Licence;Informatique;PRF-06;Kahn B.;08,50;6
+12/07/2024;2023-2024;S2;Rattrapage;ETU-069;Robin Jules;Non Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;09,50;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-082;Lacroix Lola;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;10,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-084;Guillou Jade;Boursier;GST-201;Finance;Gestion;Licence;Gestion;PRF-07;Buffet W.;09,00;5
+12/07/2024;2023-2024;S2;Rattrapage;ETU-073;Brun Eva;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;10,50;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-087;Barre Alice;Non Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;09,00;4
+12/07/2024;2023-2024;S2;Rattrapage;ETU-090;Leroux Adam;Boursier;DRT-201;Droit Constit;Droit;Licence;Droit;PRF-08;Rousseau J.;08,50;4
